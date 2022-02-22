@@ -1,0 +1,1 @@
+opposite = (n) => -n;
